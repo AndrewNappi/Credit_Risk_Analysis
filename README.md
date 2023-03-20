@@ -39,6 +39,6 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 5) RandomOverSampler: 64.0%, 1%, 66%, and 2%.
 6) ClusterCentroids: 54.5%, 1%, 69%, and 1%.
 
-The best model type is the Easy Ensemble Classifier Model with the highest level of accuracy (93.2%).
+The best model type is the Easy Ensemble Classifier Model with the highest level of accuracy (93.2%). This is the model I would use for to get the best results.
 
 # Notes: Unable to upload the csv file because it is too big for git hub
