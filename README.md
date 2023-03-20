@@ -11,16 +11,16 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 # Results:
 
-##Balanced Random Forest: Classification Report
+## Balanced Random Forest: Classification Report
 ![Balanced Random Forest Classifier](https://user-images.githubusercontent.com/114446803/226417623-618db022-b3f9-463e-ae77-3d4c2342354f.png)
 
 ## Combination (Over and Under) Sampling: Classification Report
 ![Combination (Over and Under) Sampling](https://user-images.githubusercontent.com/114446803/226417848-291610b9-2c25-412b-b301-5b4aa178d974.png)
 
-##Easy Ensemble AdaBoost Classifier: Classification Report 
+## Easy Ensemble AdaBoost Classifier: Classification Report 
 ![Easy Ensemble AdaBoost Classifier](https://user-images.githubusercontent.com/114446803/226418030-c151ca6f-6a98-45e5-956e-d1c27e62933a.png)
 
-##Naive Random Oversampling: Classification Report
+## Naive Random Oversampling: Classification Report
 ![Naive Random Oversampling](https://user-images.githubusercontent.com/114446803/226418206-0ca2b7a9-6410-44ec-933f-9af15e12a7fb.png)
 
 ## SMOTE Oversampling: Classification Report
@@ -30,7 +30,7 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 ![Undersampling](https://user-images.githubusercontent.com/114446803/226418573-f3ffbafa-d358-4b91-b142-9777dd8fb468.png)
 
 # Summary:
-##Order: (Model Type: Accuracy, Precision, Recall, F1 Score)
+## Order: (Model Type: Accuracy, Precision, Recall, F1 Score)
 
 1) EasyEnsembleClassifer: 93.2%, 9%, 92%, and 16%.
 2) BalancedRandomForestClassifer: 78.9%, 3%, 70%, and 6%.
